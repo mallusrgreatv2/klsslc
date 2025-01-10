@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'SSLC Study Material',
+  title: 'SSLC Study Materials',
   tagline: 'A collection of the best materials you\'ll ever find.',
   favicon: 'img/favicon.ico',
 
